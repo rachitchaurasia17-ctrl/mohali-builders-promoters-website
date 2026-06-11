@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Mohali Bui
 
 Firm facts:
 - Firm: Mohali Builders & Promoters LLP
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: Plot No. 5186, Block F, Aerocity, Airport Road, Backside Mohali Citi Center, SAS Nagar
 - Phone: +91 XXXXX XXXXX
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
